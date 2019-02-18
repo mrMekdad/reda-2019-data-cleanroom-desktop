@@ -1,3 +1,4 @@
 sample	status	group
 data-cleanroom-desktop-01	ready	control
 data-cleanroom-desktop-02	review	case
+data-cleanroom-desktop-03	queued	validation
