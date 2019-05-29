@@ -7,3 +7,7 @@
 ## Issue #2
 
 Validation edge cases were reviewed on `fix/schema-validator`.
+
+## Issue #3
+
+Operator caveats were clarified after review.
